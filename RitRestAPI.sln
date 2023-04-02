@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RitRestAPI", "RitRestAPI.csproj", "{ED739E62-6C29-4DFD-BD30-D7B47C8FC709}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED739E62-6C29-4DFD-BD30-D7B47C8FC709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED739E62-6C29-4DFD-BD30-D7B47C8FC709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED739E62-6C29-4DFD-BD30-D7B47C8FC709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED739E62-6C29-4DFD-BD30-D7B47C8FC709}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
